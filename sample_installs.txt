@@ -1,0 +1,5 @@
+sudo apt-get update -y  # update repository package lists
+sudo apt-get install -y libcurl-dev  # install libcurl (C library for http requests)
+pip3 install pandas  # some python packages
+pip3 install numpy
+pip3 install seaborn
