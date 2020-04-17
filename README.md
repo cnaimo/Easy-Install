@@ -23,7 +23,7 @@ Create a text file with the desired shell commands to be executed. Optional comm
 An example command file is included (sample_installs.txt). Run easy_install.py, select your command file, and enter sudo passowrd if requested (required only once). Additional information is outputted to a logging file. 
 
 ```
-Python3 easy_install.py
+python3 easy_install.py
 What instruction file would you like to run today?
 YOUR-INSTRUCTION-FILE.txt
 ```
