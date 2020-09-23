@@ -20,7 +20,7 @@ cd Easy-Install
 ```
 
 Create a text file with the desired shell commands to be executed. Optional comments can be added Python style with '#'.
-An example command file is included (sample_installs.txt). Run easy_install.py, select your command file, and enter sudo passowrd if requested (required only once). Additional information is outputted to a logging file. 
+An example command file is included (sample_installs.txt). Run easy_install.py, select your command file, and enter sudo password if requested (required only once). Additional information is outputted to a logging file. 
 
 ```
 python3 easy_install.py
